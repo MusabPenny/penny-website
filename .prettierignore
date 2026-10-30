@@ -1,0 +1,27 @@
+# Dependencies, generated output and local tooling state
+node_modules/
+.next/
+out/
+build/
+coverage/
+.vercel/
+.agents/
+.codex/
+.aws/
+.git/
+next-env.d.ts
+*.tsbuildinfo
+package-lock.json
+*.log
+.env*
+
+# Brand/photographic assets are generated separately.
+public/images/
+public/og/
+*.ico
+*.png
+*.jpg
+*.webp
+
+# Keep the Next.js-managed instruction block byte-for-byte intact.
+AGENTS.md

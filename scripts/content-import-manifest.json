@@ -1,0 +1,308 @@
+[
+  {
+    "kind": "document",
+    "slug": "penny-plus-id-broj",
+    "source": "https://www.pennyplus.com/dokumenti/ID BROJ PENNY PLUS.pdf",
+    "asset": "document/2611d00ba05ff65338a1330065d0c560ceba88e51e3c9ec0d0b2e5a0f2a25f71.pdf"
+  },
+  {
+    "kind": "document",
+    "slug": "penny-plus-pdv-broj",
+    "source": "https://www.pennyplus.com/dokumenti/pennyplus-pib.pdf",
+    "asset": "document/79d447b8873eca83052fad20cdec8e22c09106d809ed7fc46b30d8598f3adccc.pdf"
+  },
+  {
+    "kind": "document",
+    "slug": "potvrda-o-ukljucenosti-u-sistem-zeos-d-o-o-sarajevo",
+    "source": "https://www.pennyplus.com/dokumenti/potvrda-o-ukljucenosti-u-sistem-zeos-d.o.o.-Sarajevo.pdf",
+    "asset": "document/989f839d12a2bdce1baf3bfbbb5ef45a956682dfb8bd9a47c2f847d52627ec7d.pdf"
+  },
+  {
+    "kind": "document",
+    "slug": "potvrda-o-ukljucenju-u-sistem-upravljanja-ambalaznim-otpadom",
+    "source": "https://www.pennyplus.com/dokumenti/1645019558167706.pdf",
+    "asset": "document/7acb618c9957a7eb54cf5129a1950352e05c09490888315f5d225320cc1fe94a.pdf"
+  },
+  {
+    "kind": "document",
+    "slug": "ekopak-potvrda",
+    "source": "https://www.pennyplus.com/dokumenti/ekopak.pdf",
+    "asset": "document/2817b9d0c633a57ceb98f41625a128f1cd1501cc629394fbd2e6ae0aa7e57f0b.pdf"
+  },
+  {
+    "kind": "partner",
+    "slug": "master",
+    "source": "https://pennyshop.ba/shop/brand/master",
+    "asset": "partner/2ee483682ab255df186e1b2119c218aefe2067595a9dd97882f11e1f035a8544.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "syron",
+    "source": "https://pennyshop.ba/shop/brand/syron",
+    "asset": "partner/3188e1120fc49d1f3507feff8e5d3d89678c7bcbfa19b1cbb6338757de43ab20.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "fuxtec",
+    "source": "https://pennyshop.ba/shop/brand/fuxtec",
+    "asset": "partner/f4b39f1c3ae5e13625a88fa71a42c78336045c0b55f242df9d4febfeeaac987a.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "cellfast",
+    "source": "https://pennyshop.ba/shop/brand/cellfast",
+    "asset": "partner/da63ff001118c63dbf74da8e63bb9fdda03deb3a4441fc83534c480044db71e9.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "bosch",
+    "source": "https://pennyshop.ba/shop/brand/bosch",
+    "asset": "partner/4b82e94fd473faf27c104c95b6489925508542473dd9a284bb0f2d181da79ad1.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "blackdecker",
+    "source": "https://pennyshop.ba/shop/brand/blackdecker",
+    "asset": "partner/6dc4347fdf9bcb75afa88a1210cc563e3b648240acc01515e90ea33bd64454ff.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "lea",
+    "source": "https://pennyshop.ba/shop/brand/lea",
+    "asset": "partner/658d0bf539b8c36f6773090abdc531e1a7cf1e2b26a145e72115c23a97584d31.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "mako",
+    "source": "https://pennyshop.ba/shop/brand/mako",
+    "asset": "partner/75420c06cd603189588a231fe51f3f28fce05d801b347ad8cd2e5da314f41ce5.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "electrolux",
+    "source": "https://pennyshop.ba/shop/brand/electrolux",
+    "asset": "partner/7668618541fdd4c0754e70e0e4879f5e2cf9c6e63b64c42d56222bac5ce8ceae.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "sencor",
+    "source": "https://pennyshop.ba/shop/brand/sencor",
+    "asset": "partner/2c9e1fce7240e693f08902d166a082ac934a2b6a429b18d0263a4a5903806c13.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "alpina",
+    "source": "https://pennyshop.ba/shop/brand/alpina",
+    "asset": "partner/729fc7ea68ded9a059596d389ba3a2007f6f6551797a17e8e62de5300662d65c.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "knipex",
+    "source": "https://pennyshop.ba/shop/brand/knipex",
+    "asset": "partner/1cb30e6d3d71b11c53b8206975edf6c262ff3207b9daa955194d3ca29aeed75d.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "krause",
+    "source": "https://pennyshop.ba/shop/brand/krause",
+    "asset": "partner/cc07db9f4c7857d2ad1cefe061286d30a37fd5485e3665405f428630d96fd745.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "stanley",
+    "source": "https://pennyshop.ba/shop/brand/stanley",
+    "asset": "partner/c4032cbd25e98a91df940b040b68a93f28c507fe61f3be0e0d960899b227751c.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "prebena",
+    "source": "https://pennyshop.ba/shop/brand/prebena",
+    "asset": "partner/fac558388957ecbe031828d9182f6e4f044c434e22dd5a555ea5cae0dd3b3c53.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "mutlu",
+    "source": "https://pennyshop.ba/shop/brand/mutlu",
+    "asset": "partner/58cd0d2a32333c9ed6a13eef869dbbbe67ee1e7e04b14ec4e7691285063bfe90.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "battipav",
+    "source": "https://pennyshop.ba/shop/brand/battipav",
+    "asset": "partner/79f2af4592e77a28afba1a78dde92aa1d87a549d31972c99578403751c95111f.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "bizzoto",
+    "source": "https://pennyshop.ba/shop/brand/bizzoto",
+    "asset": "partner/ba9d11001ba457cca726662a941ad631211309b986f4cfdfa58e72453fd068ce.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "awelco",
+    "source": "https://pennyshop.ba/shop/brand/awelco",
+    "asset": "partner/0ce0cfe76e71a78b5b96bfeab3b75f6c555635816b2d8a2b30bcb71bc7a1321f.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "heller",
+    "source": "https://pennyshop.ba/shop/brand/heller",
+    "asset": "partner/843c8f26d027ec6ca958a444d116a217cd8200f597cb490b6093a929943d1550.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "patrol",
+    "source": "https://pennyshop.ba/shop/brand/patrol",
+    "asset": "partner/0b7cac99ad7bd829f9604fc5975e8b528381987181861d117acc9fbb11d5b8b3.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "qbrick",
+    "source": "https://pennyshop.ba/shop/brand/qbrick",
+    "asset": "partner/65a3317cceca3f42baa568659cae42cade288950540f168504c80daf745458c4.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "kemper",
+    "source": "https://pennyshop.ba/shop/brand/kemper",
+    "asset": "partner/52858627ee35c83527d26e558f96cfe1a8ab383ef7c186e9c35fab83635ef77f.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "tyrolit",
+    "source": "https://pennyshop.ba/shop/brand/tyrolit",
+    "asset": "partner/c7b39760d614fc20fedf0149aa0d563d40adb04752cdfbb52a8a42f68eb8a295.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "enders",
+    "source": "https://pennyshop.ba/shop/brand/enders",
+    "asset": "partner/591fd1bfa49f384c80bb2bc330254018a3b2df846d6894f28540f7ea266c851a.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "wolfcraft",
+    "source": "https://pennyshop.ba/shop/brand/wolfcraft",
+    "asset": "partner/5388d3f45b7ae0a7a878ea21992a8cbea40be6d57cd8b28be2722a1b41ee68c5.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "yato",
+    "source": "https://pennyshop.ba/shop/brand/yato",
+    "asset": "partner/99d2e0558a4914529fa9629cda319172ea271efccc3497d6a85c6acdf6fdfc76.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "boehler",
+    "source": "https://pennyshop.ba/shop/brand/boehler",
+    "asset": "partner/3bf3979881569c4ef545aaa1f3328fabd310e9e3f59a576bd7a1716a067f4791.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "kapro",
+    "source": "https://pennyshop.ba/shop/brand/kapro",
+    "asset": "partner/6571fc65e92b52e6c5b1c5b65fa913bcb4b049f428e2384517c8326066bb998e.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "rems",
+    "source": "https://pennyshop.ba/shop/brand/rems",
+    "asset": "partner/9abe7bbb53c69bdf02030d6db1270db1e24699baedd553a58d5ea72815c12c9b.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "suki",
+    "source": "https://pennyshop.ba/shop/brand/suki",
+    "asset": "partner/d20cd8967981d652ec42815628a6f439a096748a00b0f65b74530652e018aed5.webp"
+  },
+  {
+    "kind": "partner",
+    "slug": "karcher",
+    "source": "https://pennyshop.ba/shop/brand/karcher",
+    "asset": "partner/d371fb168ed72d22273274f4ccabbbb8aecb93f22ded4d1ec894aa13cda78188.webp"
+  },
+  {
+    "kind": "news",
+    "slug": "nova-sezona-jednaka-podrska",
+    "source": "https://www.pennyplus.com/novosti/Nova-sezona,-jednaka-podrška",
+    "asset": "news/e3efb774c255285ebc3eb19b4e2c53c6039b45226100c44ec4e8339bb440fe1e.webp"
+  },
+  {
+    "kind": "news",
+    "slug": "dobitnici-nagradne-igre-dozivi-svjetsko-uz-penny",
+    "source": "https://www.pennyplus.com/novosti/DOBITNICI-NAGRADNE-IGRE-\"DOŽIVI-SVJETSKO-UZ-PENNY\"",
+    "asset": "news/c01461b5f4e34fa3f13bcb2fda9832dceb8c7f4e26a4659a7f008e1e51e3b797.webp"
+  },
+  {
+    "kind": "news",
+    "slug": "dozivi-svjetsko-uz-penny",
+    "source": "https://www.pennyplus.com/novosti/DOŽIVI-SVJETSKO-UZ-PENNY!",
+    "asset": "news/befc47c54497fc80504d1dc5589d63d790a0227a926b64394cf1770b0e288075.webp"
+  },
+  {
+    "kind": "news",
+    "slug": "qr-placanje-simpl",
+    "source": "https://www.pennyplus.com/novosti/SIMPL-mobilno-bankarstvo-Sparkasse-Bank:-sada-i-brzo-QR-plaćanje-u-Penny-Plus-prodavnicama",
+    "asset": "news/30d99c849356237e191a8da92bb935215dcb26eb736ff0473bdcae0ca22c7802.webp"
+  },
+  {
+    "kind": "news",
+    "slug": "brza-i-jednostavnija-kupovina-u-penny-plus-prodavnicama-uz-qr-placanje",
+    "source": "https://www.pennyplus.com/novosti/Brža-i-jednostavnija-kupovina-u-Penny-Plus-prodavnicama-uz-QR-plaćanje",
+    "asset": "news/d99f26ab4b54c3a4602e3377afbddee1857088fe8e0b3c487c90fa896a580689.webp"
+  },
+  {
+    "kind": "news",
+    "slug": "asa-banka-i-penny-plus-omogucili-placanje-putem-qr-koda",
+    "source": "https://www.pennyplus.com/novosti/ASA-Banka-i-Penny-Plus-omogućili-plaćanje-putem-QR-koda",
+    "asset": "news/88ca78a8556d424f73b3008002479c330b1857f8ea43366d2ac5f5eaf42b6c6a.webp"
+  },
+  {
+    "kind": "news",
+    "slug": "halloween-party-u-igraonicama-toys-n-fun",
+    "source": "https://www.pennyplus.com/novosti/Halloween-party-u-igraonicama-Toys-n-Fun",
+    "asset": "news/016f5af29c52e0754f3b8858a2e0354f419a7d2df90bd302f7853ad350473322.webp"
+  },
+  {
+    "kind": "job",
+    "slug": "skladistar",
+    "source": "https://www.pennyplus.com/radnomjesto/SKLADI%C5%A0TAR",
+    "asset": "job/b1a6904442da54df156bff642da8ad8a6257c3f1cee610748606773cc28d6489.webp"
+  },
+  {
+    "kind": "job",
+    "slug": "trgovac-u-vanjskom-dijelu-prodajnog-centra",
+    "source": "https://www.pennyplus.com/radnomjesto/TRGOVAC%20U%20VANJSKOM%20DIJELU%20PRODAJNOG%20CENTRA",
+    "asset": "job/9aef09c5aef5b19014f62a1fedeefc580ee4c3c76fd73854c9a09e3ec8123fbe.webp"
+  },
+  {
+    "kind": "job",
+    "slug": "gradjevinski-radnik",
+    "source": "https://www.pennyplus.com/radnomjesto/GRA%C4%90EVINSKI%20RADNIK",
+    "asset": "job/c8b317dd99add60e44ee21c83bfaa5c0eccf022dc7d40915f3e90c02415f1709.webp"
+  },
+  {
+    "kind": "job",
+    "slug": "keramicar",
+    "source": "https://www.pennyplus.com/radnomjesto/KERAMI%C4%8CAR",
+    "asset": "job/d420b24c5d1967437ebf72b8e998cecf9b615c4199e7390e0ac4e6c2fc81e3e7.webp"
+  },
+  {
+    "kind": "job",
+    "slug": "gradjevinski-inzenjer-voditelj-gradilista",
+    "source": "https://www.pennyplus.com/radnomjesto/GRA%C4%90EVINSKI%20IN%C5%BDENJER%20-%20VODITELJ%20GRADILI%C5%A0TA",
+    "asset": "job/4114e46568975a2903540fa35a113ec14d6a868a700b832d8683cc4e3ff3132b.webp"
+  },
+  {
+    "kind": "job",
+    "slug": "asistent-direktora",
+    "source": "https://www.pennyplus.com/radnomjesto/ASISTENT%20DIREKTORA",
+    "asset": "job/9abb3b3734b74c804fa4e01e017eec21f9a375c56063e1d2f62088acca6069bb.webp"
+  },
+  {
+    "kind": "job",
+    "slug": "trgovac-prodavac",
+    "source": "https://www.pennyplus.com/radnomjesto/TRGOVAC%20-%20PRODAVA%C4%8C",
+    "asset": "job/b37112a09766cd35a7ddf453f438e8dc11976af0bb24cad7b7c824f5cfe7e825.webp"
+  }
+]

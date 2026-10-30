@@ -1,0 +1,97 @@
+[
+  {
+    "source": "/dokumenti/ID BROJ PENNY PLUS.pdf",
+    "destination": "https://wagjryahswwdrhejciki.supabase.co/storage/v1/object/public/site-assets/document/2611d00ba05ff65338a1330065d0c560ceba88e51e3c9ec0d0b2e5a0f2a25f71.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/dokumenti/pennyplus-pib.pdf",
+    "destination": "https://wagjryahswwdrhejciki.supabase.co/storage/v1/object/public/site-assets/document/79d447b8873eca83052fad20cdec8e22c09106d809ed7fc46b30d8598f3adccc.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/dokumenti/potvrda-o-ukljucenosti-u-sistem-zeos-d.o.o.-Sarajevo.pdf",
+    "destination": "https://wagjryahswwdrhejciki.supabase.co/storage/v1/object/public/site-assets/document/989f839d12a2bdce1baf3bfbbb5ef45a956682dfb8bd9a47c2f847d52627ec7d.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/dokumenti/1645019558167706.pdf",
+    "destination": "https://wagjryahswwdrhejciki.supabase.co/storage/v1/object/public/site-assets/document/7acb618c9957a7eb54cf5129a1950352e05c09490888315f5d225320cc1fe94a.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/dokumenti/ekopak.pdf",
+    "destination": "https://wagjryahswwdrhejciki.supabase.co/storage/v1/object/public/site-assets/document/2817b9d0c633a57ceb98f41625a128f1cd1501cc629394fbd2e6ae0aa7e57f0b.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/novosti/Nova-sezona,-jednaka-podrška",
+    "destination": "/novosti/nova-sezona-jednaka-podrska",
+    "permanent": true
+  },
+  {
+    "source": "/novosti/DOBITNICI-NAGRADNE-IGRE-\"DOŽIVI-SVJETSKO-UZ-PENNY\"",
+    "destination": "/novosti/dobitnici-nagradne-igre-dozivi-svjetsko-uz-penny",
+    "permanent": true
+  },
+  {
+    "source": "/novosti/DOŽIVI-SVJETSKO-UZ-PENNY!",
+    "destination": "/novosti/dozivi-svjetsko-uz-penny",
+    "permanent": true
+  },
+  {
+    "source": "/novosti/SIMPL-mobilno-bankarstvo-Sparkasse-Bank:-sada-i-brzo-QR-plaćanje-u-Penny-Plus-prodavnicama",
+    "destination": "/novosti/qr-placanje-simpl",
+    "permanent": true
+  },
+  {
+    "source": "/novosti/Brža-i-jednostavnija-kupovina-u-Penny-Plus-prodavnicama-uz-QR-plaćanje",
+    "destination": "/novosti/brza-i-jednostavnija-kupovina-u-penny-plus-prodavnicama-uz-qr-placanje",
+    "permanent": true
+  },
+  {
+    "source": "/novosti/ASA-Banka-i-Penny-Plus-omogućili-plaćanje-putem-QR-koda",
+    "destination": "/novosti/asa-banka-i-penny-plus-omogucili-placanje-putem-qr-koda",
+    "permanent": true
+  },
+  {
+    "source": "/novosti/Halloween-party-u-igraonicama-Toys-n-Fun",
+    "destination": "/novosti/halloween-party-u-igraonicama-toys-n-fun",
+    "permanent": true
+  },
+  {
+    "source": "/radnomjesto/SKLADIŠTAR",
+    "destination": "/karijera/oglasi/skladistar",
+    "permanent": true
+  },
+  {
+    "source": "/radnomjesto/TRGOVAC U VANJSKOM DIJELU PRODAJNOG CENTRA",
+    "destination": "/karijera/oglasi/trgovac-u-vanjskom-dijelu-prodajnog-centra",
+    "permanent": true
+  },
+  {
+    "source": "/radnomjesto/GRAĐEVINSKI RADNIK",
+    "destination": "/karijera/oglasi/gradjevinski-radnik",
+    "permanent": true
+  },
+  {
+    "source": "/radnomjesto/KERAMIČAR",
+    "destination": "/karijera/oglasi/keramicar",
+    "permanent": true
+  },
+  {
+    "source": "/radnomjesto/GRAĐEVINSKI INŽENJER - VODITELJ GRADILIŠTA",
+    "destination": "/karijera/oglasi/gradjevinski-inzenjer-voditelj-gradilista",
+    "permanent": true
+  },
+  {
+    "source": "/radnomjesto/ASISTENT DIREKTORA",
+    "destination": "/karijera/oglasi/asistent-direktora",
+    "permanent": true
+  },
+  {
+    "source": "/radnomjesto/TRGOVAC - PRODAVAČ",
+    "destination": "/karijera/oglasi/trgovac-prodavac",
+    "permanent": true
+  }
+]

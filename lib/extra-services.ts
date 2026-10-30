@@ -1,0 +1,117 @@
+export const extraServices = [
+  {
+    slug: "zamjena-robe",
+    title: "Zamjena robe",
+    summary: "Pronađimo odgovarajuće rješenje.",
+    icon: "bag",
+    image: "store",
+    heading: "Želite zamijeniti kupljeni proizvod?",
+    description:
+      "Saznajte kako zatražiti zamjenu robe u PennyPlusu, koje dokumente pripremiti i kako kontaktirati poslovnicu u kojoj ste kupovali.",
+    paragraphs: [
+      "Za zamjenu kupljenog proizvoda obratite se poslovnici u kojoj ste obavili kupovinu. Prema objavljenim uslovima, zamjena je moguća unutar sedam dana uz originalni račun, za nekorišten i neoštećen proizvod u originalnom pakovanju.",
+      "Ovo opisuje pogodnost zamjene robe. Ako proizvod ima nedostatak, prijavite reklamaciju i opišite problem; postupak nije isti kao dobrovoljna zamjena.",
+    ],
+    steps: [
+      "Pripremite originalni račun i proizvod.",
+      "Provjerite pakovanje, stanje proizvoda i datum kupovine.",
+      "Kontaktirajte poslovnicu i dogovorite sljedeći korak.",
+    ],
+    related: [],
+    text: "Informacije o zamjeni proizvoda i prijavi problema s kupljenom robom.",
+    action: "Kontakt za zamjenu i reklamacije",
+    href: "/kontakt",
+  },
+  {
+    slug: "popravka-i-garancija",
+    title: "Popravka i garancija",
+    summary: "Podrška i nakon kupovine.",
+    icon: "tools",
+    image: "tools",
+    heading: "Prijavite kvar i pripremite dokumentaciju",
+    description:
+      "PennyPlus podrška za popravku, garanciju i reklamacije. Pripremite račun, garantni list i opis kvara te kontaktirajte prodajni centar.",
+    paragraphs: [
+      "Za proizvod koji ne radi ispravno pripremite račun, garantni list ako je izdat, model i opis problema. Popravke u garantnom roku obavljaju ovlašteni serviseri u saradnji s našim partnerima.",
+      "Kontaktirajte poslovnicu radi uputa za prijem reklamacije ili upućivanje servisu. Nemojte samostalno rastavljati uređaj; opišite kada se problem javlja i navedite kontakt za odgovor.",
+    ],
+    steps: [
+      "Pripremite dokaz kupovine i garantni list.",
+      "Zapišite model, serijski broj i opis kvara.",
+      "Obratite se poslovnici za daljnje upute.",
+    ],
+    related: [],
+    text: "Upute za prijavu kvara, garantni servis i potrebnu dokumentaciju.",
+    action: "Kontaktirajte podršku",
+    href: "/kontakt",
+  },
+  {
+    slug: "club-kartice",
+    title: "Club i mClub kartice",
+    summary: "Pogodnosti za kupce i majstore.",
+    icon: "card",
+    image: "store",
+    heading: "Upoznajte PennyPlus program pogodnosti",
+    description:
+      "Informacije o PennyPlus Club i mClub karticama za kupce i majstore. Saznajte kako se raspitati o članstvu i pogodnostima u centru.",
+    paragraphs: [
+      "PennyPlus ima Club program za kupce i mClub program namijenjen majstorima. Karticu pokažite na kasi prije izdavanja računa kako bi se primijenile raspoložive pogodnosti.",
+      "Članstvo i aktuelne uslove zatražite na info pultu. Ranije objavljeni program navodi popuste do 3% za Club i do 5% za mClub; dostupnost pogodnosti i uslove učlanjenja potvrdite direktno u centru.",
+    ],
+    steps: [
+      "Posjetite info pult svog centra.",
+      "Provjerite koja kartica odgovara vašim potrebama i važeće uslove.",
+      "Popunite pristupnicu koju dobijete u centru.",
+    ],
+    related: [],
+    text: "Program pogodnosti i informacije o članstvu za kupce i majstore.",
+    action: "Raspitajte se o karticama",
+    href: "/kontakt",
+  },
+  {
+    slug: "rezanje-granita",
+    title: "Rezanje granitnih ploča",
+    summary: "Granit prilagođen vašem prostoru.",
+    icon: "ruler",
+    image: "construction",
+    heading: "Granitni elementi po mjeri",
+    description:
+      "Informišite se o PennyPlus usluzi rezanja granitnih elemenata po mjeri za klupice, gazišta i ploče. Pripremite dimenzije za upit.",
+    paragraphs: [
+      "Za klupice, gazišta i druge granitne elemente nudimo rezanje po mjeri. Naš tim može provjeriti mogućnost obrade odabranog materijala i potrebne dimenzije.",
+      "Prije dolaska dogovorite uslugu s prodajnim centrom. Pripremite dužinu, širinu, debljinu, količinu i eventualne posebne zahtjeve.",
+    ],
+    steps: [
+      "Izmjerite elemente i pripremite skicu.",
+      "Navedite materijal i količine.",
+      "S centrom potvrdite izvedivost, cijenu i rok.",
+    ],
+    related: ["gradevinski-materijal"],
+    text: "Rezanje granitnih elemenata za klupice, gazišta i ploče po mjeri.",
+    action: "Dogovorite obradu",
+    href: "/kontakt",
+  },
+  {
+    slug: "mjenjacnica",
+    title: "Mjenjačnica",
+    summary: "Usluga uz vašu posjetu.",
+    icon: "card",
+    image: "store",
+    heading: "Mjenjačnice Velešići i Blažuj",
+    description:
+      "Pronađite informacije o PennyPlus mjenjačnicama u Velešićima i Blažuju te kontakt za provjeru radnog vremena i važeće kursne liste.",
+    paragraphs: [
+      "Mjenjačnice se nalaze u Velešićima, Halida Kajtaza b.b., i Blažuju, Mostarsko raskršće. Za radno vrijeme i dostupnost usluge obratite se centru prije dolaska.",
+      "Važeći kurs i proviziju provjerite na mjenjačkom mjestu prije transakcije. Ovdje ne prikazujemo historijsku kursnu listu kao aktuelnu.",
+    ],
+    steps: [
+      "Odaberite Velešiće ili Blažuj.",
+      "Provjerite radno vrijeme i potrebnu dokumentaciju.",
+      "Prije zamjene potvrdite kurs i proviziju.",
+    ],
+    related: [],
+    text: "Lokacije mjenjačnica i informacije o provjeri kursa i dostupnosti usluge.",
+    action: "Lokacije i kontakti",
+    href: "/prodajni-centri",
+  },
+];
